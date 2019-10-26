@@ -23,11 +23,11 @@ Your web app is accessible on http://localhost:8080/
 
 ---
 
-Modify/add code in `src-go` dir and use
+Modify/add code in `src-go` folder and use
 ```bash
 make
 ```
-to compile and publish your code. 
+to compile and publish your code. Results are located in `docs` folder. 
 
 ## Advanced
 
