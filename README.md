@@ -12,7 +12,7 @@ Requirements:
 * TinyGo
 
 ```bash
-git clone git@github.com:EntityB/tinygo-wasm-boilerplate.git <myProject> --depth 1
+git clone git@github.com:EntityB/go-wasm-boilerplate-tinygo.git <myProject> --depth 1
 ```
 
 ---
