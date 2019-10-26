@@ -1,0 +1,16 @@
+{
+    "comments": false,
+    "presets": [
+        [
+            "minify",
+            {
+                "mangle": {
+                    "exclude": [
+                        "Go"
+                    ]
+                },
+                "keepFnName": false
+            }
+        ]
+    ]
+}
