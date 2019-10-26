@@ -3,6 +3,8 @@
 Develop entire web content with Golang. This project uses JS bridge from [Go WebAssembly](https://github.com/golang/go/wiki/WebAssembly) to communicate with Go. JS is premade with Babel and you don't have to modify it. 
 For Go compilation, it uses [TinyGo](https://github.com/tinygo-org/tinygo) to achieve smaller WASM files. 
 
+Preview: https://entityb.github.io/go-wasm-boilerplate-tinygo/
+
 ## Start
 
 Requirements:
